@@ -1,5 +1,7 @@
-# company
-That is company
+# Company
+That is company plugin.
+
+1.vault
 
 # 目的
 私が作った作品や技術を「もっと他の人に広められたら」という100％満身創痍になる願望をかなえるために作りました。
