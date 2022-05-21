@@ -1,0 +1,6 @@
+name: Company
+version: '${version}'
+main: com.gihubmochineko05.company.Company
+api-version: 1.17
+authors: [ omochi ]
+description: company
